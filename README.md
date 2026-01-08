@@ -31,24 +31,37 @@ The dashboard visualizes performance by demographics, geography, time, and ad ty
 ## 📈 Dashboard Features
 
 🔹 Performance KPIs
+
   • Real-time overview of campaign health
+  
   • Budget utilization and efficiency tracking
 
 🔹 Audience Insights
+
   • Engagements by Gender
+  
   • Engagements by Age Group
+  
   • Engagements by Country
   
 🔹 Time-Based Analysis
+
   • Weekly Engagement Trends
+  
   • Hourly Engagement Trends
+  
   • Monthly Calendar View for engagement patterns
 
 🔹 Ad Type Analysis
-  • Performance comparison across:
+
+  • Performance comparison across
+  
   • Carousel Ads
+  
   • Image Ads
+  
   • Stories
+  
   • Video Ads
 
 ## 🛠 Tools & Technologies Used

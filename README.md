@@ -9,14 +9,23 @@ The dashboard visualizes performance by demographics, geography, time, and ad ty
 ## 📌 Key Metrics Tracked
 
 • Impressions
+
 • Clicks
+
 • Engagements
+
 • Purchases
+
 • Shares & Comments
+
 • Click Through Rate (CTR)
+
 • Engagement Rate
+
 • Conversion Rate
+
 • Purchase Rate
+
 • Total & Average Budget Spend
 
 ## 📈 Dashboard Features
@@ -42,12 +51,14 @@ The dashboard visualizes performance by demographics, geography, time, and ad ty
   • Stories
   • Video Ads
 
-  )
-
 ## 🛠 Tools & Technologies Used
 
 • Power BI – Dashboard design & visualization
+
 • DAX – Calculated metrics and KPIs
+
 • Data Modeling – Optimized relationships and measures
+
 • Data Visualization Best Practices
+
 • Marketing Analytics Concepts
